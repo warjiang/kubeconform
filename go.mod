@@ -1,4 +1,4 @@
-module github.com/yannh/kubeconform
+module github.com/warjiang/kubeconform
 
 go 1.17
 
